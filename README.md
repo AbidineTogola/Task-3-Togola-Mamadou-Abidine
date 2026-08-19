@@ -1,9 +1,19 @@
 # Phishing Awareness Analysis
 
-A lightweight Python-based tool for analyzing messages and identifying common phishing indicators.
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Testing](https://img.shields.io/badge/Tests-15%20passed-success)
+![Project](https://img.shields.io/badge/Project-Remote%20Internship-orange)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red)
 
-The project analyzes suspicious language, credential requests, threats, payment-related content, and potentially suspicious URLs. It then calculates a risk score and assigns a risk level to help users understand why a message may be suspicious.
+> **Remote Internship Project — DecodeLabs**
 
+A lightweight Python-based phishing awareness analysis tool designed to identify common phishing indicators in messages and suspicious URLs.
+
+## Internship Context
+
+This project was developed as part of my **Remote Internship at DecodeLabs**.
+
+The objective was to build a practical cybersecurity tool capable of analyzing potentially malicious messages, identifying phishing indicators, evaluating suspicious URLs, and assigning an explainable risk level.
 ---
 
 ## Overview
